@@ -1,0 +1,12 @@
+pytest-venv/
+.benchmarks/
+.pytest_cache/
+.pytest_html/
+.pytest_asyncio.log
+.pytest_benchmark.json
+.pytest_history
+.pytest_watch.log
+.pytest_flake8.log
+.pytest_pylint.log
+.coverage
+initial_requirements.txt

@@ -1,0 +1,502 @@
+[
+    {
+        "prod_id": 1,
+        "prod_name": "Electronics Item 1",
+        "prod_description": "Description of Electronics Item 1",
+        "prod_price": 1620.81,
+        "prod_quantity": 43,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1620.81
+    },
+    {
+        "prod_id": 2,
+        "prod_name": "Electronics Item 2",
+        "prod_description": "Description of Electronics Item 2",
+        "prod_price": 1963.56,
+        "prod_quantity": 189,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1963.56
+    },
+    {
+        "prod_id": 3,
+        "prod_name": "Electronics Item 3",
+        "prod_description": "Description of Electronics Item 3",
+        "prod_price": 142.64,
+        "prod_quantity": 171,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 142.64
+    },
+    {
+        "prod_id": 4,
+        "prod_name": "Electronics Item 4",
+        "prod_description": "Description of Electronics Item 4",
+        "prod_price": 1332.63,
+        "prod_quantity": 136,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1332.63
+    },
+    {
+        "prod_id": 5,
+        "prod_name": "Electronics Item 5",
+        "prod_description": "Description of Electronics Item 5",
+        "prod_price": 1019.15,
+        "prod_quantity": 123,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1019.15
+    },
+    {
+        "prod_id": 6,
+        "prod_name": "Electronics Item 6",
+        "prod_description": "Description of Electronics Item 6",
+        "prod_price": 1147.56,
+        "prod_quantity": 187,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1147.56
+    },
+    {
+        "prod_id": 7,
+        "prod_name": "Electronics Item 7",
+        "prod_description": "Description of Electronics Item 7",
+        "prod_price": 560.52,
+        "prod_quantity": 91,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 560.52
+    },
+    {
+        "prod_id": 8,
+        "prod_name": "Electronics Item 8",
+        "prod_description": "Description of Electronics Item 8",
+        "prod_price": 651.15,
+        "prod_quantity": 117,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 651.15
+    },
+    {
+        "prod_id": 9,
+        "prod_name": "Electronics Item 9",
+        "prod_description": "Description of Electronics Item 9",
+        "prod_price": 1467.02,
+        "prod_quantity": 35,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1467.02
+    },
+    {
+        "prod_id": 10,
+        "prod_name": "Electronics Item 10",
+        "prod_description": "Description of Electronics Item 10",
+        "prod_price": 1195.41,
+        "prod_quantity": 180,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1195.41
+    },
+    {
+        "prod_id": 11,
+        "prod_name": "Electronics Item 11",
+        "prod_description": "Description of Electronics Item 11",
+        "prod_price": 1072.93,
+        "prod_quantity": 22,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1072.93
+    },
+    {
+        "prod_id": 12,
+        "prod_name": "Electronics Item 12",
+        "prod_description": "Description of Electronics Item 12",
+        "prod_price": 1137.86,
+        "prod_quantity": 159,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1137.86
+    },
+    {
+        "prod_id": 13,
+        "prod_name": "Electronics Item 13",
+        "prod_description": "Description of Electronics Item 13",
+        "prod_price": 895.91,
+        "prod_quantity": 196,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 895.91
+    },
+    {
+        "prod_id": 14,
+        "prod_name": "Electronics Item 14",
+        "prod_description": "Description of Electronics Item 14",
+        "prod_price": 1808.23,
+        "prod_quantity": 195,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1808.23
+    },
+    {
+        "prod_id": 15,
+        "prod_name": "Electronics Item 15",
+        "prod_description": "Description of Electronics Item 15",
+        "prod_price": 1033.91,
+        "prod_quantity": 114,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1033.91
+    },
+    {
+        "prod_id": 16,
+        "prod_name": "Electronics Item 16",
+        "prod_description": "Description of Electronics Item 16",
+        "prod_price": 771.79,
+        "prod_quantity": 45,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 771.79
+    },
+    {
+        "prod_id": 17,
+        "prod_name": "Electronics Item 17",
+        "prod_description": "Description of Electronics Item 17",
+        "prod_price": 791.57,
+        "prod_quantity": 89,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 791.57
+    },
+    {
+        "prod_id": 18,
+        "prod_name": "Electronics Item 18",
+        "prod_description": "Description of Electronics Item 18",
+        "prod_price": 1848.61,
+        "prod_quantity": 169,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1848.61
+    },
+    {
+        "prod_id": 19,
+        "prod_name": "Electronics Item 19",
+        "prod_description": "Description of Electronics Item 19",
+        "prod_price": 1884.01,
+        "prod_quantity": 156,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1884.01
+    },
+    {
+        "prod_id": 20,
+        "prod_name": "Electronics Item 20",
+        "prod_description": "Description of Electronics Item 20",
+        "prod_price": 1825.5,
+        "prod_quantity": 188,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1825.5
+    },
+    {
+        "prod_id": 21,
+        "prod_name": "Electronics Item 21",
+        "prod_description": "Description of Electronics Item 21",
+        "prod_price": 1976.31,
+        "prod_quantity": 112,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1976.31
+    },
+    {
+        "prod_id": 22,
+        "prod_name": "Electronics Item 22",
+        "prod_description": "Description of Electronics Item 22",
+        "prod_price": 1298.11,
+        "prod_quantity": 27,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1298.11
+    },
+    {
+        "prod_id": 23,
+        "prod_name": "Electronics Item 23",
+        "prod_description": "Description of Electronics Item 23",
+        "prod_price": 945.37,
+        "prod_quantity": 116,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 945.37
+    },
+    {
+        "prod_id": 24,
+        "prod_name": "Electronics Item 24",
+        "prod_description": "Description of Electronics Item 24",
+        "prod_price": 1752.02,
+        "prod_quantity": 125,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1752.02
+    },
+    {
+        "prod_id": 25,
+        "prod_name": "Electronics Item 25",
+        "prod_description": "Description of Electronics Item 25",
+        "prod_price": 542.28,
+        "prod_quantity": 18,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 542.28
+    },
+    {
+        "prod_id": 26,
+        "prod_name": "Electronics Item 26",
+        "prod_description": "Description of Electronics Item 26",
+        "prod_price": 440.67,
+        "prod_quantity": 82,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 440.67
+    },
+    {
+        "prod_id": 27,
+        "prod_name": "Electronics Item 27",
+        "prod_description": "Description of Electronics Item 27",
+        "prod_price": 910.04,
+        "prod_quantity": 153,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 910.04
+    },
+    {
+        "prod_id": 28,
+        "prod_name": "Electronics Item 28",
+        "prod_description": "Description of Electronics Item 28",
+        "prod_price": 320.11,
+        "prod_quantity": 178,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 320.11
+    },
+    {
+        "prod_id": 29,
+        "prod_name": "Electronics Item 29",
+        "prod_description": "Description of Electronics Item 29",
+        "prod_price": 870.86,
+        "prod_quantity": 17,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 870.86
+    },
+    {
+        "prod_id": 30,
+        "prod_name": "Electronics Item 30",
+        "prod_description": "Description of Electronics Item 30",
+        "prod_price": 1032.14,
+        "prod_quantity": 185,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1032.14
+    },
+    {
+        "prod_id": 31,
+        "prod_name": "Electronics Item 31",
+        "prod_description": "Description of Electronics Item 31",
+        "prod_price": 717.1,
+        "prod_quantity": 185,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 717.1
+    },
+    {
+        "prod_id": 32,
+        "prod_name": "Electronics Item 32",
+        "prod_description": "Description of Electronics Item 32",
+        "prod_price": 1241.66,
+        "prod_quantity": 114,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1241.66
+    },
+    {
+        "prod_id": 33,
+        "prod_name": "Electronics Item 33",
+        "prod_description": "Description of Electronics Item 33",
+        "prod_price": 1252.65,
+        "prod_quantity": 186,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1252.65
+    },
+    {
+        "prod_id": 34,
+        "prod_name": "Electronics Item 34",
+        "prod_description": "Description of Electronics Item 34",
+        "prod_price": 536.32,
+        "prod_quantity": 116,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 536.32
+    },
+    {
+        "prod_id": 35,
+        "prod_name": "Electronics Item 35",
+        "prod_description": "Description of Electronics Item 35",
+        "prod_price": 644.12,
+        "prod_quantity": 99,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 644.12
+    },
+    {
+        "prod_id": 36,
+        "prod_name": "Electronics Item 36",
+        "prod_description": "Description of Electronics Item 36",
+        "prod_price": 1753.01,
+        "prod_quantity": 77,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1753.01
+    },
+    {
+        "prod_id": 37,
+        "prod_name": "Electronics Item 37",
+        "prod_description": "Description of Electronics Item 37",
+        "prod_price": 686.61,
+        "prod_quantity": 71,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 686.61
+    },
+    {
+        "prod_id": 38,
+        "prod_name": "Electronics Item 38",
+        "prod_description": "Description of Electronics Item 38",
+        "prod_price": 837.05,
+        "prod_quantity": 121,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 837.05
+    },
+    {
+        "prod_id": 39,
+        "prod_name": "Electronics Item 39",
+        "prod_description": "Description of Electronics Item 39",
+        "prod_price": 1857.03,
+        "prod_quantity": 140,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1857.03
+    },
+    {
+        "prod_id": 40,
+        "prod_name": "Electronics Item 40",
+        "prod_description": "Description of Electronics Item 40",
+        "prod_price": 407.58,
+        "prod_quantity": 131,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 407.58
+    },
+    {
+        "prod_id": 41,
+        "prod_name": "Electronics Item 41",
+        "prod_description": "Description of Electronics Item 41",
+        "prod_price": 1377.97,
+        "prod_quantity": 76,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1377.97
+    },
+    {
+        "prod_id": 42,
+        "prod_name": "Electronics Item 42",
+        "prod_description": "Description of Electronics Item 42",
+        "prod_price": 1167.43,
+        "prod_quantity": 38,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1167.43
+    },
+    {
+        "prod_id": 43,
+        "prod_name": "Electronics Item 43",
+        "prod_description": "Description of Electronics Item 43",
+        "prod_price": 959.85,
+        "prod_quantity": 57,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 959.85
+    },
+    {
+        "prod_id": 44,
+        "prod_name": "Electronics Item 44",
+        "prod_description": "Description of Electronics Item 44",
+        "prod_price": 307.8,
+        "prod_quantity": 182,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 307.8
+    },
+    {
+        "prod_id": 45,
+        "prod_name": "Electronics Item 45",
+        "prod_description": "Description of Electronics Item 45",
+        "prod_price": 512.7,
+        "prod_quantity": 91,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 512.7
+    },
+    {
+        "prod_id": 46,
+        "prod_name": "Electronics Item 46",
+        "prod_description": "Description of Electronics Item 46",
+        "prod_price": 255.09,
+        "prod_quantity": 151,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 255.09
+    },
+    {
+        "prod_id": 47,
+        "prod_name": "Electronics Item 47",
+        "prod_description": "Description of Electronics Item 47",
+        "prod_price": 1332.52,
+        "prod_quantity": 14,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1332.52
+    },
+    {
+        "prod_id": 48,
+        "prod_name": "Electronics Item 48",
+        "prod_description": "Description of Electronics Item 48",
+        "prod_price": 1921.78,
+        "prod_quantity": 34,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1921.78
+    },
+    {
+        "prod_id": 49,
+        "prod_name": "Electronics Item 49",
+        "prod_description": "Description of Electronics Item 49",
+        "prod_price": 568.39,
+        "prod_quantity": 26,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 568.39
+    },
+    {
+        "prod_id": 50,
+        "prod_name": "Electronics Item 50",
+        "prod_description": "Description of Electronics Item 50",
+        "prod_price": 1071.04,
+        "prod_quantity": 62,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 1071.04
+    }
+]

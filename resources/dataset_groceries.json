@@ -1,0 +1,502 @@
+[
+    {
+        "prod_id": 1,
+        "prod_name": "Groceries Item 1",
+        "prod_description": "Description of Groceries Item 1",
+        "prod_price": 6.3,
+        "prod_quantity": 444,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 6.3
+    },
+    {
+        "prod_id": 2,
+        "prod_name": "Groceries Item 2",
+        "prod_description": "Description of Groceries Item 2",
+        "prod_price": 34.17,
+        "prod_quantity": 404,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 34.17
+    },
+    {
+        "prod_id": 3,
+        "prod_name": "Groceries Item 3",
+        "prod_description": "Description of Groceries Item 3",
+        "prod_price": 26.09,
+        "prod_quantity": 209,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 26.09
+    },
+    {
+        "prod_id": 4,
+        "prod_name": "Groceries Item 4",
+        "prod_description": "Description of Groceries Item 4",
+        "prod_price": 25.41,
+        "prod_quantity": 55,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 25.41
+    },
+    {
+        "prod_id": 5,
+        "prod_name": "Groceries Item 5",
+        "prod_description": "Description of Groceries Item 5",
+        "prod_price": 45.82,
+        "prod_quantity": 347,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 45.82
+    },
+    {
+        "prod_id": 6,
+        "prod_name": "Groceries Item 6",
+        "prod_description": "Description of Groceries Item 6",
+        "prod_price": 46.43,
+        "prod_quantity": 137,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 46.43
+    },
+    {
+        "prod_id": 7,
+        "prod_name": "Groceries Item 7",
+        "prod_description": "Description of Groceries Item 7",
+        "prod_price": 9.46,
+        "prod_quantity": 444,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 9.46
+    },
+    {
+        "prod_id": 8,
+        "prod_name": "Groceries Item 8",
+        "prod_description": "Description of Groceries Item 8",
+        "prod_price": 39.46,
+        "prod_quantity": 305,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 39.46
+    },
+    {
+        "prod_id": 9,
+        "prod_name": "Groceries Item 9",
+        "prod_description": "Description of Groceries Item 9",
+        "prod_price": 8.4,
+        "prod_quantity": 238,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 8.4
+    },
+    {
+        "prod_id": 10,
+        "prod_name": "Groceries Item 10",
+        "prod_description": "Description of Groceries Item 10",
+        "prod_price": 13.42,
+        "prod_quantity": 478,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 13.42
+    },
+    {
+        "prod_id": 11,
+        "prod_name": "Groceries Item 11",
+        "prod_description": "Description of Groceries Item 11",
+        "prod_price": 15.54,
+        "prod_quantity": 347,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 15.54
+    },
+    {
+        "prod_id": 12,
+        "prod_name": "Groceries Item 12",
+        "prod_description": "Description of Groceries Item 12",
+        "prod_price": 15.55,
+        "prod_quantity": 281,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 15.55
+    },
+    {
+        "prod_id": 13,
+        "prod_name": "Groceries Item 13",
+        "prod_description": "Description of Groceries Item 13",
+        "prod_price": 39.45,
+        "prod_quantity": 412,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 39.45
+    },
+    {
+        "prod_id": 14,
+        "prod_name": "Groceries Item 14",
+        "prod_description": "Description of Groceries Item 14",
+        "prod_price": 47.01,
+        "prod_quantity": 311,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 47.01
+    },
+    {
+        "prod_id": 15,
+        "prod_name": "Groceries Item 15",
+        "prod_description": "Description of Groceries Item 15",
+        "prod_price": 26.24,
+        "prod_quantity": 496,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 26.24
+    },
+    {
+        "prod_id": 16,
+        "prod_name": "Groceries Item 16",
+        "prod_description": "Description of Groceries Item 16",
+        "prod_price": 23.93,
+        "prod_quantity": 354,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 23.93
+    },
+    {
+        "prod_id": 17,
+        "prod_name": "Groceries Item 17",
+        "prod_description": "Description of Groceries Item 17",
+        "prod_price": 17.41,
+        "prod_quantity": 99,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 17.41
+    },
+    {
+        "prod_id": 18,
+        "prod_name": "Groceries Item 18",
+        "prod_description": "Description of Groceries Item 18",
+        "prod_price": 28.06,
+        "prod_quantity": 423,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 28.06
+    },
+    {
+        "prod_id": 19,
+        "prod_name": "Groceries Item 19",
+        "prod_description": "Description of Groceries Item 19",
+        "prod_price": 38.24,
+        "prod_quantity": 411,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 38.24
+    },
+    {
+        "prod_id": 20,
+        "prod_name": "Groceries Item 20",
+        "prod_description": "Description of Groceries Item 20",
+        "prod_price": 23.36,
+        "prod_quantity": 337,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 23.36
+    },
+    {
+        "prod_id": 21,
+        "prod_name": "Groceries Item 21",
+        "prod_description": "Description of Groceries Item 21",
+        "prod_price": 29.48,
+        "prod_quantity": 235,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 29.48
+    },
+    {
+        "prod_id": 22,
+        "prod_name": "Groceries Item 22",
+        "prod_description": "Description of Groceries Item 22",
+        "prod_price": 46.06,
+        "prod_quantity": 186,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 46.06
+    },
+    {
+        "prod_id": 23,
+        "prod_name": "Groceries Item 23",
+        "prod_description": "Description of Groceries Item 23",
+        "prod_price": 8.08,
+        "prod_quantity": 260,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 8.08
+    },
+    {
+        "prod_id": 24,
+        "prod_name": "Groceries Item 24",
+        "prod_description": "Description of Groceries Item 24",
+        "prod_price": 21.95,
+        "prod_quantity": 233,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 21.95
+    },
+    {
+        "prod_id": 25,
+        "prod_name": "Groceries Item 25",
+        "prod_description": "Description of Groceries Item 25",
+        "prod_price": 13.71,
+        "prod_quantity": 98,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 13.71
+    },
+    {
+        "prod_id": 26,
+        "prod_name": "Groceries Item 26",
+        "prod_description": "Description of Groceries Item 26",
+        "prod_price": 43.62,
+        "prod_quantity": 329,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 43.62
+    },
+    {
+        "prod_id": 27,
+        "prod_name": "Groceries Item 27",
+        "prod_description": "Description of Groceries Item 27",
+        "prod_price": 23.57,
+        "prod_quantity": 328,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 23.57
+    },
+    {
+        "prod_id": 28,
+        "prod_name": "Groceries Item 28",
+        "prod_description": "Description of Groceries Item 28",
+        "prod_price": 3.79,
+        "prod_quantity": 166,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 3.79
+    },
+    {
+        "prod_id": 29,
+        "prod_name": "Groceries Item 29",
+        "prod_description": "Description of Groceries Item 29",
+        "prod_price": 5.63,
+        "prod_quantity": 381,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 5.63
+    },
+    {
+        "prod_id": 30,
+        "prod_name": "Groceries Item 30",
+        "prod_description": "Description of Groceries Item 30",
+        "prod_price": 45.78,
+        "prod_quantity": 103,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 45.78
+    },
+    {
+        "prod_id": 31,
+        "prod_name": "Groceries Item 31",
+        "prod_description": "Description of Groceries Item 31",
+        "prod_price": 38.29,
+        "prod_quantity": 193,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 38.29
+    },
+    {
+        "prod_id": 32,
+        "prod_name": "Groceries Item 32",
+        "prod_description": "Description of Groceries Item 32",
+        "prod_price": 35.45,
+        "prod_quantity": 500,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 35.45
+    },
+    {
+        "prod_id": 33,
+        "prod_name": "Groceries Item 33",
+        "prod_description": "Description of Groceries Item 33",
+        "prod_price": 12.9,
+        "prod_quantity": 180,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 12.9
+    },
+    {
+        "prod_id": 34,
+        "prod_name": "Groceries Item 34",
+        "prod_description": "Description of Groceries Item 34",
+        "prod_price": 22.21,
+        "prod_quantity": 484,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 22.21
+    },
+    {
+        "prod_id": 35,
+        "prod_name": "Groceries Item 35",
+        "prod_description": "Description of Groceries Item 35",
+        "prod_price": 27.15,
+        "prod_quantity": 99,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 27.15
+    },
+    {
+        "prod_id": 36,
+        "prod_name": "Groceries Item 36",
+        "prod_description": "Description of Groceries Item 36",
+        "prod_price": 18.11,
+        "prod_quantity": 327,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 18.11
+    },
+    {
+        "prod_id": 37,
+        "prod_name": "Groceries Item 37",
+        "prod_description": "Description of Groceries Item 37",
+        "prod_price": 16.74,
+        "prod_quantity": 358,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 16.74
+    },
+    {
+        "prod_id": 38,
+        "prod_name": "Groceries Item 38",
+        "prod_description": "Description of Groceries Item 38",
+        "prod_price": 2.85,
+        "prod_quantity": 67,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 2.85
+    },
+    {
+        "prod_id": 39,
+        "prod_name": "Groceries Item 39",
+        "prod_description": "Description of Groceries Item 39",
+        "prod_price": 25.63,
+        "prod_quantity": 471,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 25.63
+    },
+    {
+        "prod_id": 40,
+        "prod_name": "Groceries Item 40",
+        "prod_description": "Description of Groceries Item 40",
+        "prod_price": 24.38,
+        "prod_quantity": 487,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 24.38
+    },
+    {
+        "prod_id": 41,
+        "prod_name": "Groceries Item 41",
+        "prod_description": "Description of Groceries Item 41",
+        "prod_price": 13.42,
+        "prod_quantity": 186,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 13.42
+    },
+    {
+        "prod_id": 42,
+        "prod_name": "Groceries Item 42",
+        "prod_description": "Description of Groceries Item 42",
+        "prod_price": 44.4,
+        "prod_quantity": 255,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 44.4
+    },
+    {
+        "prod_id": 43,
+        "prod_name": "Groceries Item 43",
+        "prod_description": "Description of Groceries Item 43",
+        "prod_price": 19.64,
+        "prod_quantity": 200,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 19.64
+    },
+    {
+        "prod_id": 44,
+        "prod_name": "Groceries Item 44",
+        "prod_description": "Description of Groceries Item 44",
+        "prod_price": 22.38,
+        "prod_quantity": 183,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 22.38
+    },
+    {
+        "prod_id": 45,
+        "prod_name": "Groceries Item 45",
+        "prod_description": "Description of Groceries Item 45",
+        "prod_price": 44.8,
+        "prod_quantity": 354,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 44.8
+    },
+    {
+        "prod_id": 46,
+        "prod_name": "Groceries Item 46",
+        "prod_description": "Description of Groceries Item 46",
+        "prod_price": 7.56,
+        "prod_quantity": 208,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 7.56
+    },
+    {
+        "prod_id": 47,
+        "prod_name": "Groceries Item 47",
+        "prod_description": "Description of Groceries Item 47",
+        "prod_price": 6.35,
+        "prod_quantity": 135,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 6.35
+    },
+    {
+        "prod_id": 48,
+        "prod_name": "Groceries Item 48",
+        "prod_description": "Description of Groceries Item 48",
+        "prod_price": 3.43,
+        "prod_quantity": 410,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 3.43
+    },
+    {
+        "prod_id": 49,
+        "prod_name": "Groceries Item 49",
+        "prod_description": "Description of Groceries Item 49",
+        "prod_price": 15.11,
+        "prod_quantity": 223,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 15.11
+    },
+    {
+        "prod_id": 50,
+        "prod_name": "Groceries Item 50",
+        "prod_description": "Description of Groceries Item 50",
+        "prod_price": 46.19,
+        "prod_quantity": 196,
+        "discounted_item": false,
+        "discount_percentage": 0,
+        "prod_discounted_price": 46.19
+    }
+]

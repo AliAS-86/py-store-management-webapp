@@ -1,0 +1,11 @@
+{
+    "config-for": "provide fake config to test utilities functions",
+    "Author": {
+        "Author-name": "Ali A Salman",
+        "Author-email": "asalman.htx@gmail.com",
+        "Author-github": "https://github.com/AliAS-86"
+    },
+    "config": {
+        "response": "data loading ok"
+    }
+}

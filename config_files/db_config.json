@@ -1,0 +1,15 @@
+{
+    "config-for": "mysql_config",
+    "Author": {
+        "Author-name": "Ali A Salman",
+        "Author-email": "asalman.htx@gmail.com",
+        "Author-github": "https://github.com/AliAS-86"
+    },
+    "db": "store_management",
+    "config": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "admin",
+        "password": "T0k@lis1611"
+    }
+}

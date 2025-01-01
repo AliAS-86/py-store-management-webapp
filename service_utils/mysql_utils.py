@@ -32,7 +32,7 @@ def connect_to_db():
         logger.error(f"MySQL Connection Error: {e}")
         return
     
-def cursor_executer(cmd, connection=None, return_type=None):
+def cursor_executer(cmd=None, query=None, values=None, curs_method=None, connection=None, return_type=None):
     """A method to execute mysql command and manage the cursor and/or connection (cnx) lifecycle"""
     cnx = connection
     logger.info(f"connection from cursor executer: {cnx}")
@@ -42,16 +42,30 @@ def cursor_executer(cmd, connection=None, return_type=None):
         close_connection = True
     try:
         with cnx.cursor() as cursor:
-            cursor.execute(cmd)
-            if return_type == "fetchall":
-                return cursor.fetchall()
-            elif return_type == "fetchone":
-                return cursor.fetchone()
-            elif return_type == "lastrowid":
-                return cursor.lastrowid
-            elif return_type == "rowcount":
-                return cursor.rowcount
-            return None
+            if curs_method == "execute":
+                cursor.execute(cmd)
+                if return_type == "fetchall":
+                    return cursor.fetchall()
+                elif return_type == "fetchone":
+                    return cursor.fetchone()
+                elif return_type == "lastrowid":
+                    return cursor.lastrowid
+                elif return_type == "rowcount":
+                    return cursor.rowcount
+                return None
+            elif curs_method == "executemany":
+                cursor.executemany(query, values)
+                cnx.commit()
+                if return_type == "fetchall":
+                    return cursor.fetchall()
+                elif return_type == "fetchone":
+                    return cursor.fetchone()
+                elif return_type == "lastrowid":
+                    return cursor.lastrowid
+                elif return_type == "rowcount":
+                    return cursor.rowcount
+                return None
+            
 
     finally:
         if close_connection:

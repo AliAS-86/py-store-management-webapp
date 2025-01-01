@@ -32,8 +32,10 @@ def connect_to_db():
         logger.error(f"MySQL Connection Error: {e}")
         return
     
-def cursor_executer(cmd, cnx=None, return_type=None):
+def cursor_executer(cmd, connection=None, return_type=None):
     """A method to execute mysql command and manage the cursor and/or connection (cnx) lifecycle"""
+    cnx = connection
+    logger.info(f"connection from cursor executer: {cnx}")
     close_connection = False
     if cnx is None:
         cnx = connect_to_db()

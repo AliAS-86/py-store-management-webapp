@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 # load mysql config from json file:
-config_file_path = utils.get_path("config_files/db_config.json")
-mysql_config = utils.json_loader(config_file_path)
+# config_file_path = utils.get_path("config_files/db_config.json")
+mysql_config = utils.json_loader("config_files/db_config.json")
 
 def connect_to_db():
     """A utility function to establish a connection to the mysql server and return a connection object"""
@@ -32,7 +32,7 @@ def connect_to_db():
         logger.error(f"MySQL Connection Error: {e}")
         return
     
-def cursor_executer(cmd=None, query=None, values=None, curs_method=None, connection=None, return_type=None):
+def cursor_executer(query=None, values=None, curs_method=None, connection=None, return_type=None):
     """A method to execute mysql command and manage the cursor and/or connection (cnx) lifecycle"""
     cnx = connection
     logger.info(f"connection from cursor executer: {cnx}")
@@ -43,7 +43,7 @@ def cursor_executer(cmd=None, query=None, values=None, curs_method=None, connect
     try:
         with cnx.cursor() as cursor:
             if curs_method == "execute":
-                cursor.execute(cmd)
+                cursor.execute(query)
                 if return_type == "fetchall":
                     return cursor.fetchall()
                 elif return_type == "fetchone":
@@ -71,4 +71,12 @@ def cursor_executer(cmd=None, query=None, values=None, curs_method=None, connect
         if close_connection:
             cnx.close()
 
-        
+
+def insert_data(database, table):
+    pass
+
+def validate_schema(database, table, cnx, dataset):
+    query = f"SELECT COLUMN_NAME FROM information_schema.COLUMNS WHERE TABLE_SCHEMA = {database} AND TABLE_NAME = {table}"
+    table_schema = cursor_executer(query=query, curs_method="execute", connection=cnx, return_type="fetchall")
+    logger.info(table_schema)
+    dataset_schema = utils.get_dataset_schema(database, table, dataset)

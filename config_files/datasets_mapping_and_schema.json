@@ -1,0 +1,34 @@
+
+{
+    "description": "Key is the database table name, value is the dataset path",
+    "database": "store_management",
+    "schemas":{
+        "table_schema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "product_id": { "type": "int" },
+                    "name": { "type": "varchar(255)" },
+                    "description": { "type": "text" },
+                    "original_price": { "type": "decimal(10,2)" },
+                    "discount_flag": { "type": "tinyint(1)" },
+                    "discounted_price": { "type": "decimal(10,2)" },
+                    "quantity": { "type": "int" }
+                },
+                "required": ["product_id", "name", "original_price"]
+            }
+        }
+    },
+    "datasets_to_tables" : {
+        "groceries": {
+            "resource": "resources/dataset_groceries.json",
+            "schema": "table_schema"
+        },
+        "elecronics": {
+            "resource": "resources/dataset_groceries.json",
+            "schema": "table_schema"
+        }
+    }
+}
